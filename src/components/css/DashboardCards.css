@@ -1,0 +1,71 @@
+.cardsContainer{
+    /* width:80%; */
+    margin: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cardItem{
+    width: 24%;
+    margin:40px 0;
+}
+
+.cardInnerContainer{
+    margin:14px;
+}
+
+.cardAboveLogo{
+   position: absolute;
+   top:-20px;
+   left:14px;
+   width: 80px;
+   height: 80px;
+   background-color: green;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color:#fff;
+   border-radius: 4px;
+   /* z-index: 999; */
+}
+
+
+.cardAboveLogo.first{
+    background: linear-gradient( 60deg, #ffa726, #fb8c00);
+    box-shadow: 0 4px 20px 0 rgb(0 0 0 / 14%), 0 7px 10px -5px rgb(255 152 0 / 40%);
+}
+.cardAboveLogo.second{
+    background: linear-gradient(
+60deg
+, #66bb6a, #43a047);
+    box-shadow: 0 4px 20px 0 rgb(0 0 0 / 14%), 0 7px 10px -5px rgb(76 175 80 / 40%);
+}
+.cardAboveLogo.third{
+    background: linear-gradient( 60deg, #ef5350, #e53935);
+     box-shadow: 0 4px 20px 0 rgb(0 0 0 / 14%), 0 7px 10px -5px rgb(244 67 54 / 40%);
+}
+.cardAboveLogo.fourth{
+    background: linear-gradient(60deg, #26c6da, #00acc1);
+    box-shadow: 0 4px 20px 0 rgb(0 0 0 / 14%), 0 7px 10px -5px rgb(0 172 193 / 40%);
+}
+
+
+.cardItem{
+    position: relative;
+}
+
+.cardAbove{
+    text-align: right;
+}
+
+.cardAbove div:first-child{
+    font-size: 16px;
+}
+
+.cardAbove div:nth-child(2) span{
+    font-size: 16px;
+}
+.cardAbove div:nth-child(2){
+    font-size: 24px;
+}

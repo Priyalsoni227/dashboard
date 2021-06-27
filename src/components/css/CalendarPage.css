@@ -1,0 +1,14 @@
+.calendarContainer{
+    margin:40px 100px;
+   
+}
+
+.calInside{
+   background-color:#fff;
+   
+}
+
+.rbc-active{
+    background-color: #9c27b0!important;
+    color: white!important;
+}
