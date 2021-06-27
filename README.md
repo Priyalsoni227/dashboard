@@ -7,7 +7,7 @@ Demo dashboard application for workstation data, built with HTML, CSS, React, Re
 
 #### Example:   
 
-![Picture1](https://user-images.githubusercontent.com/61454329/123556944-b02c3a00-d7ab-11eb-9c46-b774fffa1421.png| width=100)
+![](https://user-images.githubusercontent.com/61454329/123556944-b02c3a00-d7ab-11eb-9c46-b774fffa1421.png| width=100)
 
 ![Picture3](https://user-images.githubusercontent.com/61454329/123556956-bde1bf80-d7ab-11eb-9d69-cac9e17d32af.png)
 
